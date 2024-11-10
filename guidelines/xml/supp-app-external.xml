@@ -114,7 +114,7 @@ End license statement: do not remove -->
 
 <p>Notes that provide alternative translations, can also be provided in a dedicated apparatus</p>
 
-   <egXML xmlns="http://www.tei-c.org/ns/Examples" corresp="http://dasi.humnet.unipi.it/index.php?id=dasi_prj_epi&amp;prjId=1&amp;recId=1292"> 
+   <egXML xmlns="http://www.tei-c.org/ns/Examples" corresp="https://dasi.cnr.it/index.php?id=dasi_prj_epi&prjId=1&corId=0&colId=0&navId=472397135&recId=1292"> 
 <div type="translation" xml:id="CSAI_415">
         <p>
             <lb n="1"/>Ṣbḥhmw son of ʿms²fq, of the family Rs²wn, 
